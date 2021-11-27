@@ -82,3 +82,7 @@ province_plot
 ```
 
 # References
+@marie1936horse
+@R
+@tidyverse
+@knitr
